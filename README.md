@@ -18,6 +18,10 @@ Model Design:
 - Attention: The attention mechanism was implemented by taking in the encoder outputs and a hidden state of the decoder. Then, attention_scores for the encoder outputs were calculated and used to make 
 context vectors along with the decoder hidden state. The decoder hidden state and context vectors were then used along with learned weights and a softmax, tanh function to output probabilities for the next target token.
 
+Results:
+- For 5 epochs, the Average Per-token Accuracy was around 94% and the Average Exact-match Accuracy: 54%
+- For 20 epochs, the Average Per-token Accuracy was around 97% and the Average Exact-match Accuracy: 87%
+
 Repo Info and Running:
 
 To find a more in-depth explanation of the code please go to the VideoInfo.txt for a link to a Google Drive that has a ~5 min video walking through the code. This video is also in .mp4 format 
