@@ -24,8 +24,9 @@ Results:
 
 Repo Info and Running:
 
-To find a more in-depth explanation of the code please go to the VideoInfo.txt for a link to a Google Drive that has a ~5 min video walking through the code. This video is also in .mp4 format 
-if downloading it and viewing it locally is preferred. The actual code can be found in the jupyter notebook Amith_Chintalapati_Final_Project.ipynb or Python file amith_chintalapati_final_project.py.
+To find a more in-depth explanation of the code please go to the VideoInfo.txt for a link to a Google Drive that has a ~5 min video walking through the code. For ease of use 
+THIS IS THE LINK: https://drive.google.com/file/d/1KTJBWLumohsXJoNLRi_vK7bWo3vQ9fJT/view?usp=sharing This video is also in .mp4 format if downloading it and viewing it locally is preferred. 
+The actual code can be found in the jupyter notebook Amith_Chintalapati_Final_Project.ipynb or Python file amith_chintalapati_final_project.py.
 To run, just run all on the jupyter notebook.
 
 Future Work:
