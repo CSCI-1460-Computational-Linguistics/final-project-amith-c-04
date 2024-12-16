@@ -25,9 +25,11 @@ if downloading it and viewing it locally is preferred. The actual code can be fo
 To run, just run all on the jupyter notebook.
 
 Future Work:
+
 The paper also implemented a Seq2Tree semantic parser which seemed really interesting and complicated. It would be a great extension to try and implement that next!
 
 Acknowledgements:
+
 As previously stated all of this code was based on the paper "Language to Logical Form with Neural Attention" by Li Dong, and Mirella Lapata (2016) which provides clear and insightful instructions on implementation.
 
 Enjoy!
