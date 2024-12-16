@@ -32,4 +32,4 @@ Acknowledgements:
 
 As previously stated all of this code was based on the paper "Language to Logical Form with Neural Attention" by Li Dong, and Mirella Lapata (2016) which provides clear and insightful instructions on implementation.
 
-Enjoy!
+Enjoy the project!
